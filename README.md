@@ -2,8 +2,6 @@
 
 A computational dynamical system modeling the co-evolution of formalization, autoproving, verification, and human interpretation in mathematics.
 
-Based on structural analysis of first principles from the autoformalization discourse ([Abouzaid et al., 2026](https://arxiv.org/abs/2502.03482)).
-
 ## The Model
 
 Six coupled ODEs capture the feedback loops, race conditions, and phase transitions of the autoformalization ecosystem:
